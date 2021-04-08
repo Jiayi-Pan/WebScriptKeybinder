@@ -1,2 +1,3 @@
 # WebScriptKeybinder
-This project includes a basic framework which provides you with a web interface where you can evoke any (python) script by a key press without requiring any experience for Web Development..
+A basic framework which provides a web interface where you can evoke any server-side python script by a key press.
+Configuring this framework requires no knowledge with web development.
