@@ -1,6 +1,6 @@
 # WebScriptKeybinder
 
-It's a minimal server prividing a web interface where you can evoke any server-side python script by a key press.
+It's a minimal server providing a web interface where user can evoke any server-side python script by a key press.
 
 Configuring this framework requires no knowledge with web development, bur just writing the key-script mapping.
 
